@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yash016
-- 👀 I’m interested in Affective Computing, Human-Human and Human-Robot Interaction and Multimodal Machine Learning
+- 👀 I’m interested in Affective Computing, Human-Computer and Human-Robot Interaction and Multimodal Machine Learning
 
 <!---
 yash016/yash016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
