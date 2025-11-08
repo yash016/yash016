@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @yash016
-- 👀 I’m interested in Affective Computing, Human-Computer and Human-Robot Interaction and Multimodal Machine Learning
+- 👋 Hi, I’m @yash016  
+- ✨ On my journey of becoming a great vibe coder 🧠🎧🤖  
+- 📚 Designing interactive learning and entertainment systems that blend cognition, play, and AI  
+- ⚙️ Researching Human-AI and Human-Robot Collaboration, Multimodal Learning & Understanding, Agentic Systems, and Safe, Responsible, and Playful AI for Education & Creativity  
+  
 
 <!---
 yash016/yash016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
