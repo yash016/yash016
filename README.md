@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @yash016  
-- ✨ On my journey of becoming a great vibe coder 🧠🎧🤖  
 - 📚 Designing interactive learning and entertainment systems that blend cognition, play, and AI  
 - ⚙️ Researching Human-AI and Human-Robot Collaboration, Multimodal Learning & Understanding, Agentic Systems, and Safe, Responsible, and Playful AI for Education & Creativity  
   
